@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "apocolypse",
+"dataUrl": "apocalypse.data.unityweb",
+"wasmCodeUrl": "apocalypse.wasm.code.unityweb",
+"wasmFrameworkUrl": "apocalypse.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
